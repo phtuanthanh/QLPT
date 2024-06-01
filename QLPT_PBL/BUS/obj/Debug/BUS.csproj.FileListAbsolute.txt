@@ -1,0 +1,11 @@
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\bin\Debug\BUS.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\bin\Debug\BUS.pdb
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\bin\Debug\DAL.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\bin\Debug\DTO.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\bin\Debug\DAL.pdb
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\bin\Debug\DTO.pdb
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\obj\Debug\BUS.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\BUS\obj\Debug\BUS.pdb

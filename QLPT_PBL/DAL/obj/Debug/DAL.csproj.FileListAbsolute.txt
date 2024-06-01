@@ -1,0 +1,9 @@
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\bin\Debug\DAL.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\bin\Debug\DAL.pdb
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\bin\Debug\DTO.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\bin\Debug\DTO.pdb
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\obj\Debug\DAL.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\DAL\obj\Debug\DAL.pdb

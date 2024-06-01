@@ -1,0 +1,6 @@
+E:\Filelocation\My Code\C#\QLPT_PBL\DTO\bin\Debug\DTO.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\DTO\bin\Debug\DTO.pdb
+E:\Filelocation\My Code\C#\QLPT_PBL\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\Filelocation\My Code\C#\QLPT_PBL\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Filelocation\My Code\C#\QLPT_PBL\DTO\obj\Debug\DTO.dll
+E:\Filelocation\My Code\C#\QLPT_PBL\DTO\obj\Debug\DTO.pdb
